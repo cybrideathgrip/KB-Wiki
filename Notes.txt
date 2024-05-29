@@ -1,0 +1,4 @@
+# Notelist for random useful goodies.
+
+- this registry key sets the last logged on user.  
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\LogonUI
